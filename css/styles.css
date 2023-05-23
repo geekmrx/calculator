@@ -1,3 +1,8 @@
+
+html {
+    font-family: sans-serif;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -26,6 +31,7 @@ button {
 }
 
 .display {
+    padding: 5px;
     font-size: 32px;
     border: 1px solid blue;
     width: 100%;
